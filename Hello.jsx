@@ -1,8 +1,7 @@
 var React = require('react');
-var SyncMixin = require('./SyncMixin');
 
 module.exports = React.createClass({
-	mixins: [SyncMixin],
+	//mixins: [require('./SyncMixin')],
 
 	getInitialState: function() {
 		return { message: 'Hello, React!' };
