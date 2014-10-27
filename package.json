@@ -1,0 +1,18 @@
+{
+  "name": "fabulous-react",
+  "version": "1.0.0",
+  "description": "fabulous+react",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brian@hovercraftstudios.com",
+  "license": "MIT",
+  "dependencies": {
+    "fabulous": "briancavalier/fabulous#master",
+    "rave": "^0.4.3",
+    "rave-load-jsx": "^0.4.0",
+    "rave-node-process": "^0.2.0",
+    "react": "^0.11.2"
+  }
+}
